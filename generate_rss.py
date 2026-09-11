@@ -10,8 +10,8 @@ urls = [
 ]
 
 fg = FeedGenerator()
-fg.title("RSS Xataka Personalizado")
-fg.link(href="https://www.xataka.com")
+fg.title("RSS Libero")
+fg.link(href="https://www.libero.pe")
 fg.description("Feed generado automáticamente con GitHub Actions")
 
 print("Iniciando scrap de URLs...")
